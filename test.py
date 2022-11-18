@@ -5,3 +5,7 @@ a=10
 b=25
 c=a+b
 print(c)
+d=100
+e=200
+f=d*e
+print(f)
